@@ -6,12 +6,9 @@ Lil
 EZ
 Tha
 Round
-Simultaneous
-Assignment
-Canvas
-VS
-Code
-Github
+Dedicated
+Excited
+Avid
 99
 Seven 9
 Small
@@ -19,16 +16,7 @@ Large
 Young
 Old
 Kid
-Python
-String
-Int
-Float
-Input
-fString
-for
-while
-if
-elif
+Burning
 M.C.
 Dr.
 Ice
@@ -66,15 +54,47 @@ O.G.
 Creep
 Dig
 Body
-GraphWin
-Circle
-Rectangle
-Polygon
-Line
-Clone
-Visual Studio Code
+Intent
+Resolute
+Firm
+Significant
+Thirst
+Zealous
+Jolly
 Zeppelin
 Fog
 Hat
 Balloon
 Trumpet
+Beaufort
+Salem
+Duluth
+Knoxville
+Columbus
+Providence
+Greenville
+Twin Falls
+San Antonio
+Flagstaff
+Rapid City
+Louisville
+St. Louis
+Sacramento
+Eureka Springs
+Baltimore
+Glenwood Springs
+Portland
+Lewisburg
+Amplification
+Biomarker
+Chromogen
+Enterococcus
+Functionalized
+Fungal
+Methicillin
+Multiplex
+Parasite
+Phage
+Recombinant
+Protein
+Substrate
